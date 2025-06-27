@@ -6,7 +6,7 @@
 ### About Me
 
 <p>
-  I'm a Front End Developer. Focused on constant growth. Always in constant learning, willing to take on new challenges and experiences.
+  I'm a Front End Developer. Focused on constant growth. Always in learning, willing to take on new challenges and experiences.
 </p>
 
 - 🔭 Actually working as Marketplace Manager.
